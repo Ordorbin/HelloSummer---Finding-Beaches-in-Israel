@@ -1,5 +1,10 @@
 # 🌞 HelloSummer - Your Ultimate Beach Guide 🌊
 
+<p align="center">
+  <img src="startpage.png" alt="Start Page" width="600">
+</p>
+
+
 ## Overview
 **HelloSummer** is an innovative **GIS-based** web application designed to help users find and explore **beaches in Israel**. Whether you're looking for a **segregated beach**, **the closest shore**, or **a beach accessible by public transportation**, this platform provides real-time location data and interactive maps.
 
@@ -23,27 +28,27 @@
 
 ## 📂 Project Structure
 📁 HelloSummer/
-├── 📜 index.html # Landing page
-├── 📜 general-search.html # Search interface 
-├── 📜 my-location.html # Display user's location
-├── 📜 accessible-beaches.html # Accessible beaches map 
-├── 📜 all-shores.html # View all shores 
-├── 📜 who-are-we.html # About page
-├── 📷 HelloSummerLogo.png 
-├── 📷 beach-icon.png 
-├── 📷 location-icon.png  
-├── 📷 bus-icon.png 
-├── 🎨 all-shores.css 
-├── 🎨 my-location.css 
-├── 🎨 general-search.css
-├── 🎨 accessible-beaches.css
-├── 🎨 who-we-are.css 
-├── ⚙️ all-shores.js 
-├── ⚙️ my-location.js 
-├── ⚙️ general-search.js 
-├── ⚙️ accessible-beaches.js 
-├── ⚙️ who-we-are.js 
-├── 📜 README.md # This document
+- ├── 📜 index.html # Landing page
+- ├── 📜 general-search.html # Search interface
+- ├── 📜 my-location.html # Display user's location
+- ├── 📜 accessible-beaches.html # Accessible beaches map
+- ├── 📜 all-shores.html # View all shores
+- ├── 📜 who-are-we.html # About page
+- ├── 📷 HelloSummerLogo.png
+- ├── 📷 beach-icon.png
+- ├── 📷 location-icon.png
+- ├── 📷 bus-icon.png
+- ├── 🎨 all-shores.css
+- ├── 🎨 my-location.css
+- ├── 🎨 general-search.css
+- ├── 🎨 accessible-beaches.css
+- ├── 🎨 who-we-are.css
+- ├── ⚙️ all-shores.js
+- ├── ⚙️ my-location.js
+- ├── ⚙️ general-search.js
+- ├── ⚙️ accessible-beaches.js
+- ├── ⚙️ who-we-are.js
+- ├── 📜 README.md # This document
 
 ## ⚙️ Technologies Used
 - **HTML5, CSS3, JavaScript** (Frontend)
