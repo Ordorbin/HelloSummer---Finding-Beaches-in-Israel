@@ -94,4 +94,4 @@ The project uses publicly available government datasets and APIs:
 - 📧 Email: Ordorbin13@gmail.com
 - 💻 GitHub: github.com/Ordorbin
 
-  ✨ Created with love by Or Dorbin | GIS Application Development Project | 2025
+  ✨ Created by Or Dorbin | GIS Application Development Project | 2025
