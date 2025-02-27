@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>View My Location</title>
+  <link rel="stylesheet" href="my-location.css">
+  <!-- Include Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+</head>
+<body>
+  <div class="logo-container">
+    <img src="HelloSummerLogo.png" alt="Hello Summer Logo" class="site-logo">
+  </div>
+  <div class="container">
+    <div class="header">
+      <img src="location-icon.png" alt="Location Icon" class="header-icon">
+      <h2>view my location</h2>
+    </div>
+    <div id="map"></div>
+    <div class="nav-buttons">
+      <a href="accessible-beaches.html" class="circle-button">
+        <img src="bus-icon.png" alt="Bus Icon">
+      </a>
+      <a href="all-shores.html" class="circle-button">
+        <img src="beach-icon.png" alt="Beach Icon">
+      </a>
+    </div>
+  </div>
+
+  <!-- Include Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="my-location.js"></script>
+</body>
+</html>

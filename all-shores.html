@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>View All Shores in Israel</title>
+  <link rel="stylesheet" href="all-shores.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.7.5/proj4.js"></script>
+</head>
+<body>
+  <div class="logo-container">
+    <img src="HelloSummerLogo.png" alt="Hello Summer Logo" class="site-logo">
+  </div>
+  <div class="container">
+    <div class="header">
+      <img src="beach-icon.png" alt="Beach Icon" class="header-icon">
+      <h2>View All Shores in Israel</h2>
+    </div>
+
+    <div id="map"></div>
+
+    <div class="nav-buttons">
+      <div class="circle-button" id="location-btn">
+        <img src="location-icon.png" alt="My Location">
+      </div>
+      <div class="circle-button" id="bus-btn">
+        <img src="bus-icon.png" alt="Bus Stops">
+      </div>
+    </div>
+
+    <div class="filter-buttons">
+      <button id="nearby-beaches-btn" class="filter-button">
+        <span id="nearby-beaches-icon">☐</span> Nearby Beaches
+      </button>
+      <button id="segregated-btn" class="filter-button">
+        <span id="segregated-icon">☐</span> Segregated beaches
+      </button>
+      <button id="more-details-btn" class="filter-button more-details">More Details</button>
+    </div>
+
+    <div id="details-popup" class="popup hidden">
+      <span class="close-btn" id="close-btn">X</span>
+      <p>
+        <b>Segregated beaches </b> are official public beaches with gender separation.
+        <br><br>
+        <b>Nearby beaches </b> Find out what's the closest beach to your location!
+      </p>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
+  <script src="https://www.govmap.gov.il/govmap/api/govmap.api.js"></script>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  <script src="all-shores.js"></script>
+</body>
+</html>

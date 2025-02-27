@@ -1,0 +1,53 @@
+/* Apply styles to the whole page */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  background-image: url('background.jpg'); /* Replace with your image path */
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+/* Center the container */
+.container {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Style the heading */
+h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Style the paragraph */
+p {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+
+.start-button {
+  width: 400px; /* גודל הכפתור */
+  cursor: pointer;
+  position: absolute; /* ממקם את הכפתור בצורה אבסולוטית */
+  bottom: 100px; /* מרחק של 50 פיקסלים מהחלק התחתון של הדף */
+  left: 50%; /* ממקם את הכפתור באמצע הדף */
+  transform: translateX(-50%); /* שומר את הכפתור ממורכז באופן מושלם */
+  transition: transform 0.3s, opacity 0.3s; /* אנימציה של הגדלה ושקיפות */
+  transform-origin: center; /* נקודת עוגן במרכז */
+}
+
+
+.start-button:hover {
+  transform: translateX(-50%) scale(1.05); /* שמירה על המרכזיות יחד עם ההגדלה */
+  opacity: 0.8; /* שינוי השקיפות בעת מעבר עכבר */
+}

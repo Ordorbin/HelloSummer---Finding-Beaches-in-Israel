@@ -1,0 +1,117 @@
+/* General Styles */
+body {
+    font-family: Comic Sans MS, Arial;
+    background-color: #abcaef;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 300px;
+}
+
+/* Content */
+.container {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #1f3a93; /* Dark Blue Background */
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Sections */
+.about, .features, .contact {
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #f0ecd6; /* Golden Yellow */
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+    color: #f0ecd6;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #fff;
+}
+
+.features {
+    text-align: center; /* ✅ Center the section */
+    margin-bottom: 30px;
+}
+/* Features List */
+.features ul {
+    list-style: none;
+    padding: 0;
+}
+
+.features li {
+    font-size: 1.3em; /* ✅ Make text larger */
+    margin: 12px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* ✅ Centers text */
+    color: #fff;
+}
+
+.features i {
+    font-size: 1.5em;
+    margin-right: 10px;
+    color: #FFD700;
+}
+
+.features li b {
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+/* Contact Section */
+.contact a {
+    color: #FFD700;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Back Button */
+#backButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 15px 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+    background: #FFD700;
+    color: black;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#backButton img {
+    width: 25px;
+    margin-right: 10px;
+}
+
+#backButton:hover {
+    background: #FFA500;
+}

@@ -1,0 +1,350 @@
+[
+    {
+        "Name":"Rishon Lezion Beach",
+        "X":174596.0,
+        "Y":655887.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Bat Yam Beach",
+        "X":175122.0,
+        "Y":657489.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Herzliya Beach",
+        "X":180732.0,
+        "Y":673334.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Haifa Central Beach - South of Bat Galim",
+        "X":198233.0,
+        "Y":749000.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Haifa Central Beach - South of Kiryat Yam Jurisdiction",
+        "X":205576.0,
+        "Y":749476.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Tirat Carmel Central Beach",
+        "X":196025.0,
+        "Y":743316.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Kiryat Yam Central Beach - Almog Beach",
+        "X":206300.0,
+        "Y":751018.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Gan Raveh Central Beach - South of Rishon Lezion Jurisdiction",
+        "X":172994.0,
+        "Y":651210.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Gan Raveh Central Beach - Palmachim Beach",
+        "X":171424.0,
+        "Y":648154.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Hevel Yavne Central Beach",
+        "X":169490.0,
+        "Y":643820.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Hof HaSharon Central Beach",
+        "X":184097.0,
+        "Y":685173.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Netanya Central Beach - Poleg Beach",
+        "X":184098.0,
+        "Y":685177.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Netanya Central Beach - Sironit A Beach",
+        "X":185921.0,
+        "Y":692900.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Tel Baruch Beach",
+        "X":179703.0,
+        "Y":669988.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Charles Clore Beach",
+        "X":177471.0,
+        "Y":663247.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Jaffa-Givat Aliya Beach",
+        "X":176116.0,
+        "Y":660710.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Frishman Beach",
+        "X":178136.0,
+        "Y":665349.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Ashdod Central Beach - South of Riviera",
+        "X":163781.0,
+        "Y":631231.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Ashkelon Central Beach - South of the Southern 'Maritime' Area",
+        "X":157250.0,
+        "Y":619832.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Be'er Tuvia Central Beach - South of Ashdod Be'er Tuvia Jurisdiction",
+        "X":163522.0,
+        "Y":630741.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Be'er Tuvia Central Beach - South of Be'er Tuvia Beach",
+        "X":163230.0,
+        "Y":630158.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Hof Ashkelon Central Beach - South of Be'er Tuvia Hof Ashkelon Jurisdiction",
+        "X":162876.0,
+        "Y":629505.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Hof Ashkelon Central Beach - South of Zikim",
+        "X":153001.0,
+        "Y":613545.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Jisr az-Zarqa Central Beach - South of the Northern Jisr Beach",
+        "X":191007.0,
+        "Y":715875.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Hadera Central Beach - South of Givat Olga Central Beach",
+        "X":188696.0,
+        "Y":704931.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Hof HaCarmel Central Beach - South of Dor Beach Station 1",
+        "X":192467.0,
+        "Y":724385.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Haifa Central Beach - South of the Maritime School",
+        "X":199183.0,
+        "Y":748765.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Dead Sea Beach",
+        "X":237545.67,
+        "Y":592244.33,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Northern Tiberias Separate Beach",
+        "X":252231.0,
+        "Y":741316.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Southern Tiberias Separate Beach",
+        "X":252298.0,
+        "Y":741199.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Nordau Tel Aviv Beach",
+        "X":178445.0,
+        "Y":666706.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Kiryat Sanz Netanya Separate Beach",
+        "X":186328.0,
+        "Y":694586.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Eilat Separate Beach",
+        "X":196724.0,
+        "Y":384234.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Argaman Acre Beach",
+        "X":207653.0,
+        "Y":758232.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Ashdod Separate Beach",
+        "X":164726.0,
+        "Y":633285.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Ashkelon Separate Beach",
+        "X":157393.0,
+        "Y":620205.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Quiet Beach Haifa",
+        "X":199297.0,
+        "Y":748638.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Nahariya Religious Beach",
+        "X":208676.0,
+        "Y":768497.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Hatechichon Beach",
+        "X":186500.0,
+        "Y":695449.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Sironit A South Beach",
+        "X":185750.0,
+        "Y":692668.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Ben-Zion North Beach",
+        "X":185916.0,
+        "Y":692450.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Thechelet Bay South Beach",
+        "X":186485.0,
+        "Y":695256.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Hadera Emek Hefer South Beach",
+        "X":187905.0,
+        "Y":701975.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Beit Yanai South Beach",
+        "X":187324.0,
+        "Y":699127.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Mevo'ot Yam South Beach",
+        "X":187631.0,
+        "Y":700816.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Michmoret 1 South Beach",
+        "X":187779.0,
+        "Y":701429.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Haneurim South Beach",
+        "X":186829.0,
+        "Y":697006.0,
+        "IsSeperated":"No"
+    },
+    {
+        "Name":"Eilat Separate Beach",
+        "X":196706.0,
+        "Y":384265.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Tiberias Southern Separate Beach",
+        "X":252283.0,
+        "Y":741144.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Tiberias Northern Separate Beach",
+        "X":252213.0,
+        "Y":741247.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Nahariya Separate Beach Section 1",
+        "X":208679.0,
+        "Y":768484.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Nahariya Separate Beach Section 2",
+        "X":208643.0,
+        "Y":768468.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Ashdod Separate Beach",
+        "X":164800.0,
+        "Y":633308.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Ashkelon Separate Beach",
+        "X":157507.0,
+        "Y":620217.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Bat Yam Separate Beach",
+        "X":175179.0,
+        "Y":657546.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Herzliya Separate Beach",
+        "X":180732.0,
+        "Y":673346.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Rishon Lezion Separate Beach",
+        "X":174649.0,
+        "Y":655928.0,
+        "IsSeperated":"Yes"
+    },
+    {
+        "Name":"Tel Aviv Nordau Separate Beach",
+        "X":178419.0,
+        "Y":666781.0,
+        "IsSeperated":"Yes"
+    }
+]

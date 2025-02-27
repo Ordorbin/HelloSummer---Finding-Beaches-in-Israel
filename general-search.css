@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: #abcaef;
+  font-family: Comic Sans MS, Arial;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+
+.search-bar {
+  position: relative;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 600px;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 15px;
+  font-size: 1.2em;
+  border: 2px solid #ecf9ff;
+  border-radius: 25px;
+}
+
+.search-bar .search-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 60px;
+  cursor: pointer;
+}
+
+
+.emoji-img {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 10px;
+}
+
+
+.button {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 25px;
+  padding: 10px 20px;
+  width: 400px;
+  cursor: pointer;
+  transition: transform 0.3s, background-color 0.3s;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 10px auto;
+}
+
+.button img {
+  width: 50px;
+  height: 50px;
+  margin-right: 15px;
+}
+
+.button span {
+  font-size: 1.2em;
+}
+
+.button:hover {
+  transform: scale(1.05);
+  background-color: #f0f8ff;
+}
+
+.emoji-container {
+  display: flex;            
+  align-items: center;      
+  justify-content: center; 
+  gap: 15px;                
+  margin: 20px 0;           
+}
+.emoji-container h2 {
+  font-size: 2em;        
+  font-weight: bold;     
+  color: #333;          
+  margin: 0;             
+}
+
+.logo-container {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.site-logo {
+  width: 150px; 
+  height: auto;
+}

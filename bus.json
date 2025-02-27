@@ -1,0 +1,1449 @@
+[
+  {
+  "StationId": "406",
+  "CityCode": "472",
+  "CityName": "Abu Ghosh",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.799473,
+  "Long": 35.12045
+  },
+  {
+  "StationId": "58311",
+  "CityCode": "1115",
+  "CityName": "Avivim",
+  "StationTypeName": "Regular Station",
+  "Lat": 33.086055,
+  "Long": 35.474654
+  },
+  {
+  "StationId": "58312",
+  "CityCode": "1115",
+  "CityName": "Avivim",
+  "StationTypeName": "Regular Station",
+  "Lat": 33.086452,
+  "Long": 35.473794
+  },
+  {
+  "StationId": "59965",
+  "CityCode": "1115",
+  "CityName": "Avivim",
+  "StationTypeName": "Regular Station",
+  "Lat": 33.090601,
+  "Long": 35.468869
+  },
+  {
+  "StationId": "59966",
+  "CityCode": "1115",
+  "CityName": "Avivim",
+  "StationTypeName": "Regular Station",
+  "Lat": 33.091036,
+  "Long": 35.468901
+  },
+  {
+  "StationId": "58285",
+  "CityCode": "2052",
+  "CityName": "Avital",
+  "StationTypeName": "Regular Station",
+  "Lat": 32.557815,
+  "Long": 35.315975
+  },
+  {
+  "StationId": "5215",
+  "CityCode": "1070",
+  "CityName": "Aviezer",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.681822,
+  "Long": 35.012003
+  },
+  {
+  "StationId": "5216",
+  "CityCode": "1070",
+  "CityName": "Aviezer",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.682876,
+  "Long": 35.016827
+  },
+  {
+  "StationId": "5217",
+  "CityCode": "1070",
+  "CityName": "Aviezer",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.682737,
+  "Long": 35.01897
+  },
+  {
+  "StationId": "30085",
+  "CityCode": "182",
+  "CityName": "Even Yehuda",
+  "StationTypeName": "Regular Station",
+  "Lat": 32.286178,
+  "Long": 34.887525
+  },
+  {
+  "StationId": "30088",
+  "CityCode": "182",
+  "CityName": "Even Yehuda",
+  "StationTypeName": "Regular Station",
+  "Lat": 32.281606,
+  "Long": 34.881288
+  },
+  {
+  "StationId": "30092",
+  "CityCode": "182",
+  "CityName": "Even Yehuda",
+  "StationTypeName": "Regular Station",
+  "Lat": 32.280053,
+  "Long": 34.882428
+  },
+  {
+  "StationId": "43171",
+  "CityCode": "1020",
+  "CityName": "Or Akiva",
+  "StationTypeName": "Station Regular",
+  "Lat": 32.497922,
+  "Long": 34.92136
+  },
+  {
+  "StationId": "43194",
+  "CityCode": "1020",
+  "CityName": "Or Akiva",
+  "StationTypeName": "Regular Station",
+  "Lat": 32.517829,
+  "Long": 34.915839
+  },
+  {
+  "StationId": "38777",
+  "CityCode": "565",
+  "CityName": "Area",
+  "StationTypeName": "Regular Station",
+  "Lat": 32.028616,
+  "Long": 34.798117
+  },
+  {
+  "StationId": "33153",
+  "CityCode": "804",
+  "CityName": "Achismekh",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.9304,
+  "Long": 34.904114
+  },
+  {
+  "StationId": "33272",
+  "CityCode": "804",
+  "CityName": "Achismak",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.940562,
+  "Long": 34.908762
+  },
+  {
+  "StationId": "33273",
+  "CityCode": "804",
+  "CityName": "Achismak",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.935916,
+  "Long": 34.909652
+  },
+  {
+  "StationId": "33274",
+  "CityCode": "804",
+  "CityName": "Achismak",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.934781,
+  "Long": 34.909539
+  },
+  {
+  "StationId": "33275",
+  "CityCode": "804",
+  "CityName": "Achismekh",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.932997,
+  "Long": 34.909143
+  },
+  {
+  "StationId": "65258",
+  "CityCode": "3570",
+  "CityName": "Ariel",
+  "StationTypeName": "Regular Station",
+  "Lat": 32.107772,
+  "Long": 35.178832
+  },
+  {
+  "StationId": "65256",
+  "CityCode": "3570",
+  "CityName": "Ariel",
+  "StationTypeName": "Regular Station",
+  "Lat": 32.103223,
+  "Long": 35.201341
+  },
+  {
+  "StationId": "12289",
+  "CityCode": "70",
+  "CityName": "Ashdod",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.795494,
+  "Long": 34.661297
+  },
+  {
+  "StationId": "10013",
+  "CityCode": "70",
+  "CityName": "Ashdod",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.810827,
+  "Long": 34.641461
+  },
+  {
+  "StationId": "12348",
+  "CityCode": "70",
+  "CityName": "Ashdod",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.794263,
+  "Long": 34.633382
+  },
+  {
+  "StationId": "12330",
+  "CityCode": "70",
+  "CityName": "Ashdod",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.761176,
+  "Long": 34.664672
+  },
+  {
+  "StationId": "12345",
+  "CityCode": "70",
+  "CityName": "Ashdod",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.774452,
+  "Long": 34.646451
+  },
+  {
+  "StationId": "6047",
+  "CityCode": "783",
+  "CityName": "Even Sapir",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.764763,
+  "Long": 35.134329
+  },
+  {
+  "StationId": "6048",
+  "CityCode": "783",
+  "CityName": "Even Sapir",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.763925,
+  "Long": 35.134249
+  },
+  {
+  "StationId": "6049",
+  "CityCode": "783",
+  "CityName": "Even Sapir",
+  "StationTypeName": "Regular Station",
+  "Lat": 31.76313,
+  "Long": 35.133279
+  },
+  {
+  "StationId": "13578",
+  "CityCode": "400",
+"CityName": "Even Shmuel",
+"StationTypeName": "Regular Station",
+"Lat": 31.574966,
+"Long": 34.769234
+},
+{
+"StationId": "10510",
+"CityCode": "31",
+"CityName": "Ofakim",
+"StationTypeName": "Regular Station",
+"Lat": 31.315372,
+"Long": 34.621308
+},
+{
+"StationId": "12811",
+"CityCode": "31",
+"CityName": "Ofakim",
+"StationTypeName": "Regular Station",
+"Lat": 31.296847,
+"Long": 34.633742
+},
+{
+"StationId": "11807",
+"CityCode": "7100",
+"CityName": "Ashkelon",
+"StationTypeName": "Regular Station",
+"Lat": 31.672885,
+"Long": 34.576804
+},
+{
+"StationId": "11800",
+"CityCode": "7100",
+"CityName": "Ashkelon",
+"StationTypeName": "Regular Station",
+"Lat": 31.69343,
+"Long": 34.579812
+},
+{
+"StationId": "11801",
+"CityCode": "7100",
+"CityName": "Ashkelon",
+"StationTypeName": "Regular Station",
+"Lat": 31.676946,
+"Long": 34.555827
+},
+{
+"StationId": "11914",
+"CityCode": "7100",
+"CityName": "Ashkelon",
+"StationTypeName": "Regular Station",
+"Lat": 31.649321,
+"Long": 34.566859
+},
+{
+"StationId": "11152",
+"CityCode": "155",
+"CityName": "Beer Tuvia",
+"StationTypeName": "Regular Station",
+"Lat": 31.765906,
+"Long": 34.667358
+},
+{
+"StationId": "10224",
+"CityCode": "155",
+"CityName": "Beer Tuvia",
+"StationTypeName": "Regular Station",
+"Lat": 31.737457,
+"Long": 34.763107
+},
+{
+"StationId": "11155",
+"CityCode": "155",
+"CityName": "Beer Tuvia",
+"StationTypeName": "Regular Station",
+"Lat": 31.740995,
+"Long": 34.645411
+},
+{
+"StationId": "10222",
+"CityCode": "155",
+"CityName": "Beer Tuvia",
+"StationTypeName": "Regular Station",
+"Lat": 31.714235,
+"Long": 34.736818
+},
+{
+"StationId": "37483",
+"CityCode": "2530",
+"CityName": "Beer Ya'akov",
+"StationTypeName": "Regular Station",
+"Lat": 31.94473,
+"Long": 34.846975
+},
+{
+"StationId": "37520",
+"CityCode": "2530",
+"CityName": "Beer Ya'akov",
+"StationTypeName": "Regular Station",
+"Lat": 31.965993,
+"Long": 34.840217
+},
+{
+"StationId": "39010",
+"CityCode": "2530",
+"CityName": "Be'er Ya'akov",
+"StationTypeName": "Regular Station",
+"Lat": 31.932604,
+"Long": 34.831885
+},
+{
+"StationId": "10421",
+"CityCode": "9000",
+"CityName": "Be'er Sheva",
+"StationTypeName": "Regular Station",
+"Lat": 31.199853,
+"Long": 34.918964
+},
+{
+"StationId": "10021",
+"CityCode": "9000",
+"CityName": "Be'er Sheva",
+"StationTypeName": "Regular Station",
+"Lat": 31.25737,
+"Long": 34.814245
+},
+{
+"StationId": "10053",
+"CityCode": "9000",
+"CityName": "Be'er Sheva",
+"StationTypeName": "Regular Station",
+"Lat": 31.252907,
+"Long": 34.766518
+},
+{
+"StationId": "10116",
+"CityCode": "9000",
+"CityName": "Be'er Sheva",
+"StationTypeName": "Regular Station",
+"Lat": 31.230098,
+"Long": 34.822209
+},
+{
+"StationId": "10088",
+"CityCode": "9000",
+"CityName": "Be'er Sheva",
+"StationTypeName": "Regular Station",
+"Lat": 31.250426,
+"Long": 34.790502
+},
+{
+"StationId": "37080",
+"CityCode": "466",
+"CityName": "Beit Dagan",
+"StationTypeName": "Regular Station",
+"Lat": 32.00023,
+"Long": 34.843677
+},
+{
+"StationId": "38174",
+"CityCode": "466",
+"CityName": "Beit Dagan",
+"StationTypeName": "Regular Station",
+"Lat": 32.001544,
+"Long": 34.822393
+},
+{
+"StationId": "40243",
+"CityCode": "9800",
+"CityName": "Binyamina-Giv'at Ada*",
+"StationTypeName": "Regular Station",
+"Lat": 32.52313,
+"Long": 34.929456
+},
+{
+"StationId": "17024",
+"CityCode": "9800",
+"CityName": "Binyamina-Giv'at Ada*",
+"StationTypeName": "Israel Railways",
+"Lat": 32.514393,
+"Long": 34.949626
+},
+{
+"StationId": "35506",
+"CityCode": "6200",
+"CityName": "Bat Yam",
+"StationTypeName": "Regular Station",
+"Lat": 32.00235,
+"Long": 34.736664
+},
+{
+"StationId": "34644",
+"CityCode": "6200",
+"CityName": "Bat Yam",
+"StationTypeName": "Regular Station",
+"Lat": 32.023473,
+"Long": 34.755605
+},
+{
+"StationId": "32896",
+"CityCode": "681",
+"CityName": "Giv'at Shmuel",
+"StationTypeName": "Regular Station",
+"Lat": 32.07782,
+"Long": 34.847616
+},
+{
+"StationId": "21096",
+"CityCode": "6300",
+"CityName": "Giv'atayim",
+"StationTypeName": "Regular Station",
+"Lat": 32.075242,
+"Long": 34.806948
+},
+{
+"StationId": "22926",
+"CityCode": "6300",
+"CityName": "Giv'atayim",
+"StationTypeName": "Regular Station",
+"Lat": 32.058514,
+"Long": 34.815313
+},
+{
+"StationId": "38505",
+"CityCode": "2550",
+"CityName": "Gedera",
+"StationTypeName": "Regular Station",
+"Lat": 31.805781,
+"Long": 34.764807
+},
+{
+"StationId": "38886",
+"CityCode": "2550",
+"CityName": "Gedera",
+"StationTypeName": "Regular Station",
+"Lat": 31.80235,
+"Long": 34.786697
+},
+{
+"StationId": "31419","CityCode": "229",
+"CityName": "Ganei Tikva",
+"StationTypeName": "Regular Station",
+"Lat": 32.059549,
+"Long": 34.879404
+},
+{
+"StationId": "40307",
+"CityCode": "6500",
+"CityName": "Hadera",
+"StationTypeName": "Regular Station",
+"Lat": 32.419123,
+"Long": 34.947331
+},
+{
+"StationId": "40252",
+"CityCode": "6500",
+"CityName": "Hadera",
+"StationTypeName": "Regular Station",
+"Lat": 32.440919,
+"Long": 34.931908
+},
+{
+"StationId": "40457",
+"CityCode": "6500",
+"CityName": "Hadera",
+"StationTypeName": "Regular Station",
+"Lat": 32.450224,
+"Long": 34.961598
+},
+{
+"StationId": "40565",
+"CityCode": "6500",
+"CityName": "Hadera",
+"StationTypeName": "Regular Station",
+"Lat": 32.433589,
+"Long": 34.885788
+},
+{
+"StationId": "40380",
+"CityCode": "6500",
+"CityName": "Hadera",
+"StationTypeName": "Regular Station",
+"Lat": 32.419874,
+"Long": 34.918864
+},
+{
+"StationId": "35852",
+"CityCode": "6600",
+"CityName": "Holon",
+"StationTypeName": "Regular Station",
+"Lat": 32.005245,
+"Long": 34.797554
+},
+{
+"StationId": "34594",
+"CityCode": "6600",
+"CityName": "Holon",
+"StationTypeName": "Regular Station",
+"Lat": 31.999119,
+"Long": 34.769441
+},
+{
+"StationId": "35662",
+"CityCode": "6600",
+"CityName": "Holon",
+"StationTypeName": "Regular Station",
+"Lat": 32.030903,
+"Long": 34.770639
+},
+{
+"StationId": "31513",
+"CityCode": "2660",
+"CityName": "Yavne",
+"StationTypeName": "Regular Station",
+"Lat": 31.878625,
+"Long": 34.74302
+},
+{
+"StationId": "32517",
+"CityCode": "2660",
+"CityName": "Yavne",
+"StationTypeName": "Regular Station",
+"Lat": 31.896352,
+"Long": 34.73861
+},
+{
+"StationId": "36444",
+"CityCode": "2660",
+"CityName": "Yavne",
+"StationTypeName": "Regular Station",
+"Lat": 31.864209,
+"Long": 34.727829
+},
+{
+"StationId": "53337",
+"CityCode": "240",
+"CityName": "Yokneam Illit",
+"StationTypeName": "Regular Station",
+"Lat": 32.652511,
+"Long": 35.099228
+},
+{
+"StationId": "53245",
+"CityCode": "240",
+"CityName": "Yokneam Illit",
+"StationTypeName": "Regular Station",
+"Lat": 32.673213,
+"Long": 35.109535
+},
+{
+"StationId": "14112",
+"CityCode": "831",
+"CityName": "Yeruham",
+"StationTypeName": "Regular Station",
+"Lat": 30.986676,
+"Long": 34.927649
+},
+{
+"StationId": "16134",
+"CityCode": "831",
+"CityName": "Yeruham",
+"StationTypeName": "Regular Station",
+"Lat": 30.998379,
+"Long": 34.942619
+},
+{
+"StationId": "63567",
+"CityCode": "3574",
+"CityName": "Beit El",
+"StationTypeName": "Regular Station",
+"Lat": 31.94081,
+"Long": 35.221622
+},
+{
+"StationId": "65405",
+"CityCode": "3574",
+"CityName": "Beit El",
+"StationTypeName": "Regular Station",
+"Lat": 31.943693,
+"Long": 35.228111
+},
+{
+"StationId": "31787",
+"CityCode": "571",
+"CityName": "Beit Gamliel",
+"StationTypeName": "Regular Station",
+"Lat": 31.856164,
+"Long": 34.759875
+},
+{
+"StationId": "31788",
+"CityCode": "571",
+"CityName": "Beit Gamliel",
+"StationTypeName": "Regular Station",
+"Lat": 31.855647,
+"Long": 34.758947
+},
+{
+"StationId": "39955",
+"CityCode": "8700",
+"CityName": "Ra'anana",
+"StationTypeName": "Regular Station",
+"Lat": 32.179526,
+"Long": 34.881472
+},
+{
+"StationId": "39953",
+"CityCode": "8700",
+"CityName": "Ra'anana",
+"StationTypeName": "Regular Station",
+"Lat": 32.192409,
+"Long": 34.86398
+},
+{
+"StationId": "31966",
+"CityCode": "284",
+"CityName": "Warburg Field",
+"StationTypeName": "Regular Station",
+"Lat": 32.21006,
+"Long": 34.900886
+},
+{
+"StationId": "25514",
+"CityCode": "5000",
+"CityName": "Tel Aviv-Yafo",
+"StationTypeName": "Regular Station",
+"Lat": 32.067524,
+"Long": 34.771241
+},
+{
+"StationId": "20759",
+"CityCode": "5000",
+"CityName": "Tel Aviv-Yafo",
+"StationTypeName": "Regular Station",
+"Lat": 32.133718,
+"Long": 34.792328
+},
+{
+"StationId": "25954",
+"CityCode": "5000",
+"CityName": "Tel Aviv-Yafo",
+"StationTypeName": "Regular Station",
+"Lat": 32.102813,
+"Long": 34.788011
+},
+{
+"StationId": "20563",
+"CityCode": "5000",
+"CityName": "Tel Aviv-Yafo",
+"StationTypeName": "Rakel Border",
+"Lat": 32.049639,
+"Long": 34.758393
+},
+{
+"StationId": "20768",
+"CityCode": "5000",
+"CityName": "Tel Aviv-Yafo",
+"StationTypeName": "Regular Station",
+"Lat": 32.118729,
+"Long": 34.829698
+},
+{
+"StationId": "33532",
+"CityCode": "287",
+"CityName": "Tel Yitzhak",
+"StationTypeName": "Regular Station",
+"Lat": 32.252405,
+"Long": 34.867139
+},
+{
+"StationId": "33533",
+"CityCode": "287",
+"CityName": "Tel Yitzhak",
+"StationTypeName": "Regular Station",
+"Lat": 32.255111,
+"Long": 34.86913
+},
+{
+"StationId": "30467",
+"CityCode": "154",
+"CityName": "Tel Mond",
+"StationTypeName": "Regular Station",
+"Lat": 32.248491,
+"Long": 34.915947
+},
+{
+"StationId": "34255",
+"CityCode": "154",
+"CityName": "Tel Mond",
+"StationTypeName": "Regular Station",
+"Lat": 32.235423,
+"Long": 34.885936
+},
+{
+"StationId": "55083",
+"CityCode": "874",
+"CityName": "Migdal Ha'emek",
+"StationTypeName": "Regular Station",
+"Lat": 32.662838,
+"Long": 35.236309
+},
+{
+"StationId": "54238",
+"CityCode": "874",
+"CityName": "Migdal Ha'emek",
+"StationTypeName": "Regular Station",
+"Lat": 32.692582,
+"Long": 35.227102
+},
+{
+"StationId": "55072",
+"CityCode": "874",
+"CityName": "Migdal Ha'emek",
+"StationTypeName": "Regular Station",
+"Lat": 32.679233,
+"Long": 35.246248
+},
+{
+"StationId": "59579",
+"CityCode": "586",
+"CityName": "Megiddo",
+"StationTypeName": "Regular Station",
+"Lat": 32.636849,
+"Long": 35.063602
+},
+{
+"StationId": "58958",
+"CityCode": "586",
+"CityName": "Megiddo",
+"StationTypeName": "Regular Station",
+"Lat": 32.551027,
+"Long": 35.202212
+},
+{
+"StationId": "59570",
+"CityCode": "586",
+"CityName": "Megiddo",
+"StationTypeName": "Regular Station",
+"Lat": 32.608849,
+"Long": 35.090347
+},
+{
+"StationId": "60022",
+"CityCode": "3797",
+"CityName": "Modi'in Illit",
+"StationTypeName": "Regular Station",
+"Lat": 31.928926,
+"Long": 35.049711
+},
+{
+"StationId": "33093",
+"CityCode": "1200",
+"CityName": "Modi'in-Maccabim-Re'ut*",
+"StationTypeName": "Railway Station Border",
+"Lat": 31.900893,
+"Long": 35.006365
+},
+{
+"StationId": "33712",
+"CityCode": "1200",
+"CityName": "Modi'in-Maccabim-Re'ut*",
+"StationTypeName": "Regular Station",
+"Lat": 31.89614,
+"Long": 34.979053
+},
+{
+"StationId": "34002",
+"CityCode": "1200",
+"CityName": "Modi'in-Maccabim-Re'ut*",
+"StationTypeName": "Regular Station",
+"Lat": 31.902214,
+"Long": 35.027356
+},
+{
+"StationId": "32086",
+"CityCode": "1200",
+"CityName": "Modi'in-Maccabim-Re'ut*",
+"StationTypeName": "Regular Station",
+"Lat": 31.871039,
+"Long": 34.998487
+},
+{
+"StationId": "34080",
+"CityCode": "1200",
+"CityName": "Modi'in-Maccabim-Re'ut*",
+"StationTypeName": "Regular Station",
+"Lat": 31.884612,
+"Long": 35.022086
+},
+{
+"StationId": "58399",
+"CityCode": "43",
+"CityName": "Metula",
+"StationTypeName": "Regular Station",
+"Lat": 33.281277,
+"Long": 35.576659
+},
+{
+"StationId": "53741",
+"CityCode": "607",
+"CityName": "Miron",
+"StationTypeName": "Regular Station",
+"Lat": 32.984066,
+"Long": 35.44288
+},
+{
+"StationId": "47152",
+"CityCode": "382",
+"CityName": "Makhmoret",
+"StationTypeName": "Regular Station",
+"Lat": 32.408523,
+"Long": 34.876241
+},
+{
+"StationId": "40108",
+"CityCode": "694",
+"CityName": "Ma'agan Michael",
+"StationTypeName": "Regular Station",
+"Lat": 32.556334,
+"Long": 34.918369
+},
+{
+"StationId": "50493",
+"CityCode": "1063",
+"CityName": "Maalot-Tarshiha",
+"StationTypeName": "Regular Station",
+"Lat": 33.008823,
+"Long": 35.262389
+},
+{
+"StationId": "50558",
+"CityCode": "1063",
+"CityName": "Maalot-Tarshiha",
+"StationTypeName": "Regular Station",
+"Lat": 33.027047,
+"Long": 35.276277
+},
+{
+"StationId": "35504",
+"CityCode": "28",
+"CityName": "Mazkeret Batya",
+"StationTypeName": "Regular Station",
+"Lat": 31.854368,
+"Long": 34.844343
+},
+{
+"StationId": "16437",
+"CityCode": "99",
+"CityName": "Mitzpe Ramon",
+"StationTypeName": "Regular Station",
+"Lat": 30.613996,
+"Long": 34.796825
+},
+{
+"StationId": "16459",
+"CityCode": "99",
+"CityName": "Mitzpe Ramon",
+"StationTypeName": "Regular Station",
+"Lat": 30.606559,
+"Long": 34.799905
+},
+{
+"StationId": "16460",
+"CityCode": "99",
+"CityName": "Mitzpe Ramon",
+"StationTypeName": "Regular Station",
+"Lat": 30.627885,
+"Long": 34.804937
+},
+{
+"StationId": "18510",
+"CityCode": "99",
+"CityName": "Mitzpe Ramon",
+"StationTypeName": "Station Regular",
+"Lat": 30.621862,
+"Long": 34.80151
+},
+{
+"StationId": "19705",
+"CityCode": "99",
+"CityName": "Mitzpe Ramon",
+"StationTypeName": "Regular Station",
+"Lat": 30.615592,
+"Long": 34.799079
+},
+{
+"StationId": "53036",
+"CityCode": "843",
+"CityName": "Margaliot",
+"StationTypeName": "Regular Station",
+"Lat": 33.217428,
+"Long": 35.541586
+},
+{
+"StationId": "53039",
+"CityCode": "843",
+"CityName": "Margaliot",
+"StationTypeName": "Regular Station",
+"Lat": 33.21669,
+"Long": 35.543739
+},
+{
+"StationId": "53040",
+"CityCode": "843",
+"CityName": "Margaliot",
+"StationTypeName": "Regular Station",
+"Lat": 33.215324,
+"Long": 35.544209
+},
+{
+"StationId": "15682",
+"CityCode": "395",
+"CityName": "Mishmar Negev",
+"StationTypeName": "Regular Station",
+"Lat": 31.368086,
+"Long": 34.717039
+},
+{
+"StationId": "52500",
+"CityCode": "80",
+"CityName": "Nahlal",
+"StationTypeName": "Regular Station",
+"Lat": 32.69444,
+"Long": 35.202943
+},
+{
+"StationId": "52501",
+"CityCode": "80",
+"CityName": "Nahlal",
+"StationTypeName": "Regular Station",
+"Lat": 32.690351,
+"Long": 35.196731
+},
+{
+"StationId": "52502",
+"CityCode": "80",
+"CityName": "Nahlal",
+"StationTypeName": "Regular Station",
+"Lat": 32.692838,
+"Long": 35.201485
+},
+{
+"StationId": "56933",
+"CityCode": "80",
+"CityName": "Nahlal",
+"StationTypeName": "Regular Station",
+"Lat": 32.682653,
+"Long": 35.202583
+},
+{
+"StationId": "58284",
+"CityCode": "80",
+"CityName": "Nahlal",
+"StationTypeName": "Regular Station",
+"Lat": 32.694924,
+"Long": 35.203346
+},
+{
+"StationId": "50040",
+"CityCode": "9100",
+"CityName": "Nahariya",
+"StationTypeName": "Regular Station",
+"Lat": 33.006406,
+"Long": 35.092707
+},
+{
+"StationId": "50058",
+"CityCode": "9100",
+"CityName": "Nahariya",
+"StationTypeName": "Regular Station",
+"Lat": 32.989289,
+"Long": 35.094154
+},
+{
+"StationId": "37969",
+"CityCode": "168",
+"CityName": "Kfar Yona",
+"StationTypeName": "Regular Station",
+"Lat": 32.322528,
+"Long": 34.925679
+},
+{
+"StationId": "44287",
+"CityCode": "168",
+"CityName": "Kfar Yona",
+"StationTypeName": "Taxi Service",
+"Lat": 32.311665,
+"Long": 34.948092
+},
+{
+"StationId": "58755",
+"CityCode": "85",
+"CityName": "Kfar Yehezkel",
+"StationTypeName": "Regular Station",
+"Lat": 32.566944,
+"Long": 35.362113
+},
+{
+"StationId": "14655",
+"CityCode": "1085",
+"CityName": "Kerem Shalom",
+"StationTypeName": "Regular Station",
+"Lat": 31.2278,
+"Long": 34.284711
+},
+{
+"StationId": "59758",
+"CityCode": "1171",
+"CityName": "Lotem",
+"StationTypeName": "Regular Station",
+"Lat": 32.883002,
+"Long": 35.358924
+},
+{
+"StationId": "59759",
+"CityCode": "1171",
+"CityName": "Lotem",
+"StationTypeName": "Regular Station",
+"Lat": 32.88043,
+"Long": 35.356593
+},
+{
+"StationId": "1796",
+"CityCode": "1015",
+"CityName": "Mevseret Zion",
+"StationTypeName": "Regular Station",
+"Lat": 31.790772,
+"Long": 35.14345
+},
+{
+"StationId": "35365",
+"CityCode": "7400",
+"CityName": "Netanya",
+"StationTypeName": "Regular Station",
+"Lat": 32.287144,
+"Long": 34.842964
+},
+{
+"StationId": "35211",
+"CityCode": "7400",
+"CityName": "Netanya",
+"StationTypeName": "Regular Station",
+"Lat": 32.322391,
+"Long": 34.863904
+},
+{
+"StationId": "35998",
+"CityCode": "7400",
+"CityName": "Netanya",
+"StationTypeName": "Regular Station",
+"Lat": 32.303828,
+"Long": 34.881904
+},
+{
+"StationId": "35866",
+"CityCode": "7400",
+"CityName": "Netanya",
+"StationTypeName": "Regular Station",
+"Lat": 32.2774,
+"Long": 34.862468
+},
+{
+"StationId": "55000",
+"CityCode": "7700",
+"CityName": "Afula",
+"StationTypeName": "Station Regular",
+"Lat": 32.624423,
+"Long": 35.324707
+},
+{
+"StationId": "54905",
+"CityCode": "7700",
+"CityName": "Afula",
+"StationTypeName": "Regular Station",
+"Lat": 32.615926,
+"Long": 35.29974
+},
+{
+"StationId": "38866",
+"CityCode": "1748",
+"CityName": "Ben-Gurion Airport",
+"StationTypeName": "Regular Station",
+"Lat": 31.998806,
+"Long": 34.879751
+},
+{
+"StationId": "37668",
+"CityCode": "1748",
+"CityName": "Ben-Gurion Airport",
+"StationTypeName": "Regular Station",
+"Lat": 31.991386,
+"Long": 34.906898
+},
+{
+"StationId": "13571",
+"CityCode": "1242",
+"CityName": "Netiv Ha'esara",
+"StationTypeName": "Regular Station",
+"Lat": 31.558137,
+"Long": 34.546835
+},
+{
+"StationId": "14978",
+"CityCode": "1242",
+"CityName": "Netiv Ha'esara",
+"StationTypeName": "Regular Station",
+"Lat": 31.572113,
+"Long": 34.539791
+},
+{
+"StationId": "11440",
+"CityCode": "246",
+"CityName": "Netiv Ha'esara",
+"StationTypeName": "Regular Station",
+"Lat": 31.41851,
+"Long": 34.565471
+},
+{
+"StationId": "11490",
+"CityCode": "246",
+"CityName": "Netivot",
+"StationTypeName": "Regular Station",
+"Lat": 31.420633,
+"Long": 34.600381
+},
+{
+"StationId": "11166",
+"CityCode": "246",
+"CityName": "Netivot",
+"StationTypeName": "Regular Station",
+"Lat": 31.438482,
+"Long": 34.577364
+},
+{
+"StationId": "43135",
+"CityCode": "7800",
+"CityName": "Pardes Hanna-Karkur",
+"StationTypeName": "Regular Station",
+"Lat": 32.470403,
+"Long": 34.979653
+},
+{
+"StationId": "43916",
+"CityCode": "7800",
+"CityName": "Pardes Hanna-Karkur",
+"StationTypeName": "Regular Station",
+"Lat": 32.479703,
+"Long": 34.96207
+},
+{
+"StationId": "46133",
+"CityCode": "7800",
+"CityName": "Pardes Hanna-Karkur",
+"StationTypeName": "Regular Station",
+"Lat": 32.471438,
+"Long": 35.011431
+},
+{
+"StationId": "47894",
+"CityCode": "1167",
+"CityName": "Caesarea",
+"StationTypeName": "Regular Station",
+"Lat": 32.497509,
+"Long": 34.892361
+},
+{
+"StationId": "48097",
+"CityCode": "1167",
+"CityName": "Caesarea",
+"StationTypeName": "Regular Station",
+"Lat": 32.489829,
+"Long": 34.912688
+},
+{
+"StationId": "31045",
+"CityCode": "2620",
+"CityName": "Kiryat Ono",
+"StationTypeName": "Regular Station",
+"Lat": 32.059207,
+"Long": 34.850812
+},
+{
+"StationId": "41746",
+"CityCode": "6800",
+"CityName": "Kiryat Ata",
+"StationTypeName": "Regular Station",
+"Lat": 32.802905,
+"Long": 35.107359
+},
+{
+"StationId": "41973",
+"CityCode": "6800",
+"CityName": "Kiryat Ata",
+"StationTypeName": "Regular Station",
+"Lat": 32.812256,
+"Long": 35.125958
+},
+{
+"StationId": "56260",
+"CityCode": "9500",
+"CityName": "Kiryat Bialik",
+"StationTypeName": "Regular Station",
+"Lat": 32.849564,
+"Long": 35.105074
+},
+{
+"StationId": "56261",
+"CityCode": "9500",
+"CityName": "Kiryat Bialik",
+"StationTypeName": "Regular Station",
+"Lat": 32.850358,
+"Long": 35.105241
+},
+{
+"StationId": "56262",
+"CityCode": "9500",
+"CityName": "Kiryat Bialik",
+"StationTypeName": "Regular Station",
+"Lat": 32.851531,
+"Long": 35.1049
+},
+{
+"StationId": "56263",
+"CityCode": "9500",
+"CityName": "Kiryat Bialik",
+"StationTypeName": "Regular Station",
+"Lat": 32.852013,
+"Long": 35.104973
+},
+{
+"StationId": "56265",
+"CityCode": "9500",
+"CityName": "Kiryat Bialik",
+"StationTypeName": "Regular Station",
+"Lat": 32.853327,
+"Long": 35.104546
+},
+{
+"StationId": "10090",
+"CityCode": "2630",
+"CityName": "Kiryat Gat",
+"StationTypeName": "Regular Station",
+"Lat": 31.609994,
+"Long": 34.772756
+},
+{
+"StationId": "47673",
+"CityCode": "8200",
+"CityName": "Kiryat Motzkin",
+"StationTypeName": "Regular Station",
+"Lat": 32.846,
+"Long": 35.086567
+},
+{
+"StationId": "47630",
+"CityCode": "8200",
+"CityName": "Kiryat Motzkin",
+"StationTypeName": "Regular Station",
+"Lat": 32.824174,
+"Long": 35.078858
+},
+{
+"StationId": "10720",
+"CityCode": "1034",
+"CityName": "Kiryat Malachi",
+"StationTypeName": "Regular Station",
+"Lat": 31.726007,
+"Long": 34.743621
+},
+{
+"StationId": "32922",
+"CityCode": "8300",
+"CityName": "Rishon Lezion",
+"StationTypeName": "Regular Station",
+"Lat": 31.957097,
+"Long": 34.822842
+},
+{
+"StationId": "33117",
+"CityCode": "8300",
+"CityName": "Rishon Lezion",
+"StationTypeName": "Regular Station",
+"Lat": 31.978447,
+"Long": 34.836965
+},
+{
+"StationId": "32937",
+"CityCode": "8300",
+"CityName": "Rishon Lezion",
+"StationTypeName": "Regular Station",
+"Lat": 31.987642,
+"Long": 34.787934
+},
+{
+"StationId": "33106",
+"CityCode": "8300",
+"CityName": "Rishon Lezion",
+"StationTypeName": "Regular Station",
+"Lat": 31.989245,
+"Long": 34.810675
+},
+{
+"StationId": "33129",
+"CityCode": "8300",
+"CityName": "Rishon Lezion",
+"StationTypeName": "Regular Station",
+"Lat": 31.966563,
+"Long": 34.799512
+},
+{
+"StationId": "31866",
+"CityCode": "8400",
+"CityName": "Streets",
+"StationTypeName": "Regular Station",
+"Lat": 31.901476,
+"Long": 34.80992
+},
+{
+"StationId": "32100",
+"CityCode": "8400",
+"CityName": "Streets",
+"StationTypeName": "Regular Station",
+"Lat": 31.894978,
+"Long": 34.790699
+},
+{
+"StationId": "33469",
+"CityCode": "8500",
+"CityName": "Ramla",
+"StationTypeName": "Regular Station",
+"Lat": 31.927079,
+"Long": 34.863896
+},
+{
+"StationId": "21654",
+"CityCode": "8600",
+"CityName": "Ramat Gan",
+"StationTypeName": "Regular Station",
+"Lat": 32.085265,
+"Long": 34.810178
+},
+{
+"StationId": "21627",
+"CityCode": "8600",
+"CityName": "Ramat Gan",
+"StationTypeName": "Regular Station",
+"Lat": 32.066836,
+"Long": 34.839773
+},
+{
+"StationId": "26064",
+"CityCode": "8600",
+"CityName": "Ramat Gan",
+"StationTypeName": "Regular Station",
+"Lat": 32.049649,
+"Long": 34.814429
+},
+{
+"StationId": "21666",
+"CityCode": "8600",
+"CityName": "Ramat Gan",
+"StationTypeName": "Regular Station",
+"Lat": 32.098766,
+"Long": 34.827487
+},
+{
+"StationId": "26820",
+"CityCode": "2650",
+"CityName": "Ramat Hasharon",
+"StationTypeName": "Regular Station",
+"Lat": 32.136513,
+"Long": 34.844078
+},
+{
+"StationId": "26749",
+"CityCode": "2650",
+"CityName": "Ramat Hasharon",
+"StationTypeName": "Regular Station",
+"Lat": 32.148081,
+"Long": 34.803806
+},
+{
+"StationId": "53639",
+"CityCode": "8000",
+"CityName": "Safed",
+"StationTypeName": "Regular Station",
+"Lat": 32.961132,
+"Long": 35.492874
+},
+{
+"StationId": "51488",
+"CityCode": "8000",
+"CityName": "Safed",
+"StationTypeName": "Regular Station",
+"Lat": 32.968048,
+"Long": 35.512426
+},
+{
+"StationId": "51334",
+"CityCode": "8000",
+"CityName": "Safed",
+"StationTypeName": "Regular Station",
+"Lat": 32.956452,
+"Long": 35.531657
+}
+]
