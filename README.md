@@ -26,6 +26,11 @@
    - `Who We Are?` - Learn about the project and the developer.
 4. **Use the Search Bar** to filter results instantly.
 
+## 🎥 Watch HelloSummer in Action!
+Click the link below to see a full demo of the application:
+[![Watch the HelloSummer Preview](start-button.png)](https://www.youtube.com/watch?v=G8on-KNgO7w)
+
+
 ## 📂 Project Structure
 📁 HelloSummer/
 - ├── 📜 index.html # Landing page
