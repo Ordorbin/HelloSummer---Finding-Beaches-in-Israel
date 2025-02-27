@@ -61,7 +61,7 @@
 To run HelloSummer locally:
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/Ordorbin/HelloSummer.git
+   git clone git@github.com:Ordorbin/HelloSummer---Finding-Beaches-in-Israel.git
 2. **Navigate to the project folder**
    ```sh
    cd HelloSummer
